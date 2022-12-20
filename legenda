@@ -13,15 +13,15 @@ q2ove = quota 102 o vecchiaia
 do2ov = donna, 102 o vecchiaia
 
 nuovi 2023
-dapev = donna, ape sociale o vecchiaia
-apeov = ape sociale o vecchiaia
-preav = precoci anticipata o vecchiaia
-daq2v = donna, ape, quota 102 o vecchiaia
-dqcav = donna, quota 100, ape sociale o vecchiaia
-dq3ov = donna, quota 103 o vecchiaia
-qapev = quota 100, ape sociale o vecchiaia
-2vape = quota 102, vecchiaia o ape
-q3ove = quota 103 o vecchiaia
-d23av = donna, 102, 103, anticipata o vecchiaia
-dcapa = docca, quota 100, ape sociale o anticipata
-23aov = quota 102, 103, ape o vecchiaia
+dapev = donna, ape sociale o vecchiaia x
+apeov = ape sociale o vecchiaia x
+preav = precoci anticipata o vecchiaia x
+daq2v = donna, ape, quota 102 o vecchiaia x
+dqcav = donna, quota 100, ape sociale o vecchiaia x
+dq3ov = donna, quota 103 o vecchiaia x
+qapev = quota 100, ape sociale o vecchiaia x
+q2vap = quota 102, vecchiaia o ape xxxxxxxx
+q3ove = quota 103 o vecchiaia x
+d23av = donna, 102, 103, anticipata o vecchiaia x
+dcapa = docca, quota 100, ape sociale o anticipata x
+q23av = quota 102, 103, ape o vecchiaia xxxxxxxxx
